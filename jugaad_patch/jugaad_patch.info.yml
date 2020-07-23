@@ -1,0 +1,6 @@
+name: Jugaad Patches Pvt Ltd
+description: Showing Product Listing website. selling products only on mobile app.
+package: Custom
+
+type: module
+core: 8.x
